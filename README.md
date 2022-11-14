@@ -1,3 +1,8 @@
+# Let's Read📕
+
+빅데이터 20175157 이준기\
+빅데이터 20175149 유경철
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
