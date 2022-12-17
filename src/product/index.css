@@ -58,3 +58,7 @@
   font-size: 12px;
   color: rgb(204, 204, 204);
 }
+
+#description-box {
+  min-height: 150px;
+}
