@@ -1,75 +1,22 @@
 # Hallym Market🛒
+-----
+### 한림대학교 2022년 2학기 오픈소스SW개발도구활용 프로젝트
++ #### 팀원 : 이준기, 유경철
+-----
+## [담당 분야](#담당-분야)
++ #### 아이디어 구상, 데이터베이스 연동, 서버 구축, 웹 디자인, 상품 분류 및 추천 로직 구현, 서비스 구축
+-----
+## [프로젝트 개요](#프로젝트-개요)
+#### 요즘 중고 거래 시장의 규모가 커지고 있고, 인기가 많습니다. 심지어 명품도 중고거래가 활발하게 이루어지는 시대에 맞춰 저희는 상품 추천 기능을 갖춘 중고 장터를 만들었습니다.
+#### <에브리 타임>이라는 학교 커뮤니티에 장터 게시판이 존재하나, 해당 커뮤니티는 장터 게시판이 주 목적이 아닐뿐더러 해당 커뮤니티를 이용하지 않거나 장터 게시판의 존재를 모르는 학생들도 많아 한림대학교 학생들의 물건 거래만을 위한 웹 서비스를 만들었습니다.
+----
 
-빅데이터 20175157 이준기\
-빅데이터 20175149 유경철
+## [요약 및 기능](#요약-및-기능)
+#### 저희가 만든 <한림 마켓>은 이용자가 편리하게 상품을 업로드, 구매할 수 있도록 만들어진 웹서비스입니다.
 
-# Getting Started with Create React App
+#### 상품 업로드를 할 때에는 판매자 이름과 상품 이름, 가격, 상품에 대한 설명을 직접 작성할 수 있으며, 업로드 된 상품들 중 선택을 하게 되면 해당 상품과 유사한 category를 가진 상품을 추천해줍니다. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-----
+## [사용된 기술 스택](#기술-스택)
+![image](https://user-images.githubusercontent.com/116767717/215315273-04fd4816-6992-4a13-b37a-fc99ee6bbbc3.png)
+-----
