@@ -22,6 +22,3 @@
 -----
 
 
-![web](https://github.com/peteryu24/webproject/assets/67302252/60c7e0f4-05af-4be9-af5c-7ffe61e46d51)
-![web2](https://github.com/peteryu24/webproject/assets/67302252/76ec46a2-1f7f-4240-98d9-38c01c95e275)
-![web3](https://github.com/peteryu24/webproject/assets/67302252/84e1c12e-b32e-415c-b59f-7c28affacc21)
