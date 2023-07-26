@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/116767717/215315273-04fd4816-6992-4a13-b37a-fc99ee6bbbc3.png)
 
 
-[market.pdf](https://github.com/peteryu24/hallym_market/files/12170394/market.pdf)
+[click to download pdf](https://github.com/peteryu24/hallym_market/files/12170394/market.pdf)
 
 -----
 
